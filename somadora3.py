@@ -1,4 +1,4 @@
-# somadora1.py - somadora infinita - versao 1
+# somadora3.py - somadora infinita - versao 3
 
 print 'Digite os valor a somar seguidos de .'
 print 'Para encerrar digite : 0'

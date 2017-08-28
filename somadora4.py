@@ -16,4 +16,3 @@ while 1:
         else:
             print 'Isso nao parece um numero valido.'
 print 'TOTAL: %s' % total
-
